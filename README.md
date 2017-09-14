@@ -4,7 +4,7 @@ This repository contains the links to the other repositories that are my (davebe
 Irrespective of the coding language, the scripts were intended for the following uses:
 * Specific research projects and data sets
 * Examples of general data processing
-  * Usually a generalized versions of specific scripts found elsewhere
+  * Typically generalized versions of specific scripts found elsewhere
 * Coursework
 * Examples from tutorials
  
