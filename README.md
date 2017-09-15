@@ -9,13 +9,13 @@ Irrespective of the coding language, the scripts were intended for the following
 * Examples from tutorials
  
 ## R:
-General data processing tasks and examples
+[General data processing tasks and examples] (https://github.com/davebetts/Data-management-scripts/tree/master/R "R scripts")
 
 ## Python:
-General data processing tasks and examples
+[General data processing tasks and examples] (https://github.com/davebetts/Data-management-scripts/tree/master/Python "Python scripts")
 
 ## Climate & Streamflow:
-Scripts for climate and streamflow analysis
+[Scripts for climate and streamflow analysis] (https://github.com/davebetts/Data-management-scripts/tree/master/climate_streamflow "Climate & Streamflow")
 
 ## WATS_USU:
-Specific to the data sets used in my research at USU
+[Specific scripts for the data sets used in my research at USU] (https://github.com/davebetts/Data-management-scripts/tree/master/WATS_USU)
