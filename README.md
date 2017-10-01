@@ -21,4 +21,4 @@ Generally, these scripts were intended for the following uses:
 [Specific scripts for the data sets used in my research at USU](https://github.com/davebetts/Data-management-scripts/tree/master/WATS_USU)
 
 ### Kriging and zonal statistics:
-Three scripts which were adapted to be used in a series to complete kriging and zonal statistics on climate data over multiple time steps.  These scripts are identified in the [README file](https://github.com/davebetts/Data-management-scripts/tree/master/WATS_USU)
+Three scripts which were adapted to be used in a series to complete kriging and zonal statistics on climate data over multiple time steps.  These scripts are identified in the README file, found at the following [link](https://github.com/davebetts/Data-management-scripts/tree/master/WATS_USU).
